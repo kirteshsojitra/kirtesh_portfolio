@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Miro.AI"
-              description="Pesonal video calling application like google meet it shows engagement of user to host in percentage by capturing their gestures and head movements. I designed and implemented this app with builder ai while working at Spectus Infotech Pvt Ltd."
+              description="I designed and implemented a personal video calling application, similar to Google Meet, that measures user engagement by analyzing gestures and head movements. The app provides hosts with real-time engagement scores as a percentage. This project was developed using Builder.ai during my time at Spectus Infotech Pvt. Ltd."
             />
           </Col>
 
@@ -35,7 +35,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Model App"
-              description="This web application serves purpose similar to instagram as this application contains 5 different modules like photos, videos, live streming, personal chat, and video calling. Along with this I integrate Razor pay for payment to access paid content."
+              description="A personal video conferencing application, similar to Google Meet, designed to enhance user engagement analytics. Miro.AI quantifies participant engagement by capturing and analyzing gestures and head movements, providing the host with a real-time engagement score in percentage. I spearheaded the design and implementation of this application using Builder.ai during my tenure at Spectus Infotech Pvt. Ltd."
             />
           </Col>
 
@@ -44,7 +44,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="HRMS"
-              description="A web application which preserves records of all employees working in particular organization and it tracks an employees leaves and their salary slips."
+              description="A web application designed to maintain comprehensive employee records for an organization, with functionality to track employee leave and generate salary slips."
             />
           </Col>
 
@@ -53,7 +53,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Invoice Mangement"
-              description="This app is all about keeping records of invoices and digitally creates invoice, along with some extraordinary functionalities imposing penalties on outdated invoices which has not paid yet."
+              description="This application manages invoice records, generates digital invoices, and includes advanced features such as automatically imposing penalties on overdue, unpaid invoices."
             />
           </Col>
         </Row>
